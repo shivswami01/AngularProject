@@ -1,0 +1,10 @@
+
+.form-control{
+    border:1 px solid black;
+    border-radius:4px;
+    font-size: 14px;
+    font-weight: 400 ;
+    height: 15px ;
+    padding: 6px 10px ;
+    width: 503px ;
+}
