@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Marvellous Infosystem’s First  Application!';
+  title = 'Vionsys IT Solutions India PVT LTD';
+
+  subject='Register for free course on AWS Solution Architect.'
 }
